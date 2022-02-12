@@ -1,0 +1,9 @@
+array:
+- '1'
+- '2'
+- '3'
+dictionary:
+  not_ascii_1: Ё
+  not_ascii_2: Б
+  not_ascii_3: Ж
+integer: 10
